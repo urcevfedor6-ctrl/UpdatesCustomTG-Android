@@ -1,0 +1,8 @@
+﻿{
+  "version": "0.14.0",
+  "versionCode": 29,
+  "apk": "CustomTG-0.14.0.apk",
+  "url": "https://github.com/urcevfedor6-ctrl/UpdatesCustomTG-Android/releases/download/v0.14.0/CustomTG-0.14.0.apk",
+  "sha256": "",
+  "notes": "Seed manifest. Upload APK to Releases when ready. Transfer to plugins-tg-custom when org access allows."
+}
