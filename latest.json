@@ -1,8 +1,8 @@
-﻿{
-  "version": "0.14.0",
-  "versionCode": 29,
-  "apk": "CustomTG-0.14.0.apk",
-  "url": "https://github.com/urcevfedor6-ctrl/UpdatesCustomTG-Android/releases/download/v0.14.0/CustomTG-0.14.0.apk",
-  "sha256": "",
-  "notes": "Seed manifest. Upload APK to Releases when ready. Transfer to plugins-tg-custom when org access allows."
+{
+  "version": "0.16.0-beta",
+  "versionCode": 32,
+  "apk": "CustomTG-0.16.0-beta.apk",
+  "url": "https://github.com/urcevfedor6-ctrl/UpdatesCustomTG-Android/releases/download/v0.16.0-beta/CustomTG-0.16.0-beta.apk",
+  "sha256": "c37bfda1a59bdba5228f98053aa8291d447b59e1b13348482b5bf6b4d02dddf0",
+  "notes": "Closed beta: ghost pack, denser UI, desktop Saved Messages delivery"
 }
